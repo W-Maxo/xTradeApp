@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="xTrade.AllPeople" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAAAAAAABBACAGAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllPeople.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="xTrade.App">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gXghgAQMEAQQhAQggAAAAAgAAACgQEAAATLQAZBBADg=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Client" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAACAAAgAQAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="xTrade.ClientsClass">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgABAAAAAAAAAACQIAAAAAAAAA=</HashCode>
+      <FileName>ClientsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ClientsPointsClass">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ClientsPointsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.PublicGrouping&lt;TKey, TElement&gt;" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAABQAgAAAAAAAAAAAAIAACAAAAAAAAAA=</HashCode>
+      <FileName>Extensions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="xTrade.GroupToBrushValueConverter" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GroupToBrushValueConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="xTrade.InfData">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAAAAAAACAAAAAAGAAAAAAKCAAAAAAAAAA=</HashCode>
+      <FileName>InfData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.MainPage">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAIAAMAJKwABACQQAQAlAUAIgAAAGgBQQAQIRAKACE=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.MonthIndexToStringConverter" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonthIndexToStringConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="xTrade.NewReqListClass">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAgDAAAAAAAAAAAAQAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>NewReqListClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.PeopleByFirstName">
+    <Position X="18" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PeopleByFirstName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.PeopleInGroup">
+    <Position X="18" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PeopleInGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Person">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQEAAACgAgIAAAAAAAAAAAAAAAAACAAAABAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.PersonDetail">
+    <Position X="12.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonDetail.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.BProdClass">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAABAAAAQAgAAAEAAgAAAAAgAAAAA=</HashCode>
+      <FileName>ProdClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ProdClass">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ProdClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ProdPage">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAABACAAAQAQAAAAAAAAAACAAAAACAgA=</HashCode>
+      <FileName>ProdPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.RandomString">
+    <Position X="16.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ReqClass">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQABAAAAgAEIgEEAABAgIAAAIFBBgAgAAAAEAKAA=</HashCode>
+      <FileName>ReqClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ReqItem">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAABAAAAQAAAAIAAAAAAAAAgABAAA=</HashCode>
+      <FileName>ReqItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ReqListClass">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReqListClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.Settings">
+    <Position X="11" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgA=</HashCode>
+      <FileName>settings.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.SimpleData">
+    <Position X="16.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.TovarClass">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgQEAAABAAAAQAgAAAEAAgAAAAAgAACAA=</HashCode>
+      <FileName>TovarClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.UpdateClass">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAMAAIAAAAgQCEAAABACBAACgAAAAAABAAAAABA=</HashCode>
+      <FileName>UpdateClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ResponseReceivedEventArgs">
+    <Position X="14.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>UpdateClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.NewTaskPage">
+    <Position X="18" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ViewClients.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.ViewReq">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAhAIABAACAoAAAEAAAQwAgAEQAgACCAAAAAQAAhA=</HashCode>
+      <FileName>ViewReq.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xTrade.XmlReqData">
+    <Position X="12.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>XmlReqData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5Core">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAQAAAAAAAAAAAAAAAQAAAAAACIAAAQAAgkAA=</HashCode>
+      <FileName>MD5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ABCDStruct" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApAEAAAA=</HashCode>
+      <FileName>MD5.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Delegate Name="xTrade.ResponseReceivedEventHandler" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UpdateClass.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
